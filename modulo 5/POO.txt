@@ -1,0 +1,8 @@
+Conceptos Fundamentales de la POO:
+La Programación Orientada a Objetos se centra en la creación de objetos, que son instancias de clases. Las clases definen la estructura y el comportamiento de los objetos. Los objetos pueden tener atributos (propiedades) y métodos (acciones).
+
+Clases y Objetos:
+Una clase es una plantilla que define la estructura y el comportamiento de los objetos. Un objeto es una instancia de una clase, con atributos y métodos específicos.
+
+Atributos y Métodos:
+Los atributos son las propiedades que caracterizan a un objeto. Los métodos son funciones que pueden ser llamadas en un objeto para realizar acciones.
